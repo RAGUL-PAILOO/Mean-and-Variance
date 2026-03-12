@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+<img width="541" height="373" alt="image" src="https://github.com/user-attachments/assets/96f30cb2-5efa-44c2-813a-442d746ee53c" />#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -77,7 +77,6 @@ from math import sqrt
 sdtDeviation = sqrt(var)
 print(f"Standard Deviation = {sdtDeviation:.3f}")
 ```
-
 
 # Output : 
 
